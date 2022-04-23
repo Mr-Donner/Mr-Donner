@@ -1,7 +1,7 @@
 - 🙋🏾‍♂️ Greetings, I’m @Mr-Donner
 - 🧠 I’m interested in Technology, Finance & Real Estate
-- 📚 I’m currently learning Data Science, Data Visualization, High Frequency Trading & Quantitative Finance 
-- 🤝🏽 I’m looking to collaborate on projects that have to due with Data Science, Real Estate, or Finance
+- 📚 I’m currently learning Data Science, Data Visualization, React, High Frequency Trading & Quantitative Finance 
+- 🤝🏽 I’m looking to collaborate on projects that have to due with React, Data Science, Real Estate, or Finance
 - 📧 How to reach me: ...
 
 <!---
